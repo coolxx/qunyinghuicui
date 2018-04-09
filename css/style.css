@@ -141,6 +141,10 @@ table{border-collapse:collapse;border-spacing:0;}
     margin-left: 0.55rem;
     margin-top: 0.22rem;
 }
+.show_box li label input{
+    display: inline-block;
+    vertical-align: middle;
+}
 .btn{
     width: 7rem;
     height: 1.4rem;
